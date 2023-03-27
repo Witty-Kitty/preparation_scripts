@@ -81,7 +81,6 @@ filtered_validated = normalize_text(filtered_validated)
 # considerations in creating the train, dev, test sets
 # repeated instances of sentences should only be in one set
 # repeated audios contributed by a single speaker should also all only be in one set
-# balancing gender in the various sets
 # we also drop duplicates where a user may have contributed to an individual sentence more than once
 # we split out data into 4 subsets with the following ratio; 60:15:15:10
 # the final 10% will create evaluation sets to help us quantify gender and age bias
