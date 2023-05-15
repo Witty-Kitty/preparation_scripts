@@ -56,13 +56,13 @@ def dialect_evaluation_sets(df):
 #    return normalize_text(df)
     return df
 
-dialect_evaluation_sets(kiunguja).to_csv('experiment_data/eval_dialect_kiunguja.csv', index=False)
-dialect_evaluation_sets(kibajuni).to_csv('experiment_data/eval_dialect_kibajuni.csv', index=False)
-dialect_evaluation_sets(baratz).to_csv('experiment_data/eval_dialect_baratz.csv', index=False)
-dialect_evaluation_sets(kimakunduchi).to_csv('experiment_data/eval_dialect_kimakunduchi.csv', index=False)
-dialect_evaluation_sets(kimvita).to_csv('experiment_data/eval_dialect_kimvita.csv', index=False)
-dialect_evaluation_sets(kipemba).to_csv('experiment_data/eval_dialect_kipemba.csv', index=False)
-dialect_evaluation_sets(kitumbatu).to_csv('experiment_data/eval_dialect_kitumbatu.csv', index=False)
+dialect_evaluation_sets(kiunguja).to_csv(args.data + '/sw/eval_dialect_kiunguja.tsv', index=False, set='\t')
+dialect_evaluation_sets(kibajuni).to_csv(args.data + '/sw/eval_dialect_kibajuni.tsv', index=False, sep='\t')
+dialect_evaluation_sets(baratz).to_csv(args.data + '/sw/eval_dialect_baratz.tsv', index=False, sep='\t')
+dialect_evaluation_sets(kimakunduchi).to_csv(args.data + '/sw/eval_dialect_kimakunduchi.tsv', index=False, sep='\t')
+dialect_evaluation_sets(kimvita).to_csv(args.data + '/sw/eval_dialect_kimvita.tsv', index=False, sep='\t')
+dialect_evaluation_sets(kipemba).to_csv(args.data + '/sw/eval_dialect_kipemba.tsv', index=False, sep='\t')
+dialect_evaluation_sets(kitumbatu).to_csv(args.data + '/sw/eval_dialect_kitumbatu.tsv', index=False, sep='\t')
 
 #we then filter them out of the df that we continue working with
 filter_out = pd.concat([kiunguja[0],baratz[0],kibajuni[0],kimakunduchi[0],kimvita[0],kipemba[0],kitumbatu[0]], ignore_index=True)
@@ -78,7 +78,7 @@ for idx, value in validated['sentence'].items():
 # filtering out the instances in out filter set
 filtered_validated = validated[~validated.index.isin(filter_sets)]
 #filtered_validated = normalize_text(filtered_validated)
-filtered_validated.to_csv('experiment_data/validated_without_dialect_domain_eval.tsv', index=False, sep='\t')
+filtered_validated.to_csv(args.data + '/sw/validated_without_dialect_domain_eval.tsv', index=False, sep='\t')
 
 # considerations in creating the train, dev, test sets
 # repeated instances of sentences should only be in one set
