@@ -53,7 +53,8 @@ def dialect_evaluation_sets(df):
 
     df = validated[validated.index.isin(dialect_set)]
 
-    return normalize_text(df)
+#    return normalize_text(df)
+    return df
 
 dialect_evaluation_sets(kiunguja).to_csv('experiment_data/eval_dialect_kiunguja.csv', index=False)
 dialect_evaluation_sets(kibajuni).to_csv('experiment_data/eval_dialect_kibajuni.csv', index=False)
@@ -77,7 +78,7 @@ for idx, value in validated['sentence'].items():
 # filtering out the instances in out filter set
 filtered_validated = validated[~validated.index.isin(filter_sets)]
 #filtered_validated = normalize_text(filtered_validated)
-filtered_validated.to_csv('experiment_data/validated_without_dialect_domain_eval.csv', index=False)
+filtered_validated.to_csv('experiment_data/validated_without_dialect_domain_eval.tsv', index=False, sep='\t')
 
 # considerations in creating the train, dev, test sets
 # repeated instances of sentences should only be in one set
