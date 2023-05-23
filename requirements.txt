@@ -1,5 +1,7 @@
 argparse
+ffmpeg
 pandas
 re
 sklearn
+string
 subprocess
