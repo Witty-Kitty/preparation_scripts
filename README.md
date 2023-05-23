@@ -27,3 +27,8 @@
   - the --train flag expects the path to the tsv for the training data ie. train.tsv
   - the --dups flag expects you to pass in the number of duplicates allowed in each training set 
   - it outputs .tsv files with the training subsets for experiment0. (note that we do not make any changes to the dev, test and eval subsets. These are unchanged for comparability between experiments)
+
+7. the normalise.py script
+  - the --data flag expects you to pass the path to your cv corpus directory eg. /media/datasets/cv-corpus-13.0-2023-03-09
+  - the --file flag expects the path to the tsv for the data subset you are processing, eg. train.tsv, dev.tsv
+  - it outputs .tsv files with normalised text of the selected subset
