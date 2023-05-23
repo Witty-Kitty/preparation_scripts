@@ -11,6 +11,7 @@ import string
 # 6. remove all characters not in my 'allowed' list
 
 parser = argparse.ArgumentParser()
+parser.add_argument("--data", type=str, help="add the path to your cv corpus directory", required=True)
 parser.add_argument("--file", type=str, help="add the path to your file", required=True)
 args = parser.parse_args()
 
@@ -26,6 +27,6 @@ def normalise_text(df):
 
     return df
 
-df0 = pd.read_csv(args.file, sep='\t', low_memory=False)
+df0 = pd.read_csv(args.data + '/sw/' + args.file, sep='\t', low_memory=False)
 df = normalise_text(df0)
-df.to_csv(args.file[:-4] + '_normalised.tsv', index=False, sep='\t')
+df.to_csv(args.data + '/sw/' + args.file[:-4] + '_normalised.tsv', index=False, sep='\t')
