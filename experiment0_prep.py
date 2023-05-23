@@ -2,10 +2,13 @@ import pandas as pd
 import argparse
 
 parser = argparse.ArgumentParser()
-parser.add_argument("--train", type=str, help="add the path to the csv for the training data subset", required=True)
+parser.add_argument("--data", type=str, help="add the path to the directory of your cv data, where the output file should be saved", required=True)
+parser.add_argument("--train", type=str, help="add the path to the tsv for the training data subset", required=True)
+parser.add_argument("--dups", type=int, help="number of duplicates allowed", required=True)
 args = parser.parse_args()
 
-train = pd.read_csv(args.train)
+train = pd.read_csv(args.train, sep='\t', low_memory=False)
+
 
 # dictionary where we will track sentences and their duplicates
 duplicates = {}
@@ -20,24 +23,12 @@ for sentence in train['sentence'].unique():
     duplicates[sentence] = indices
 
 # we create the experiment training sets with the repeated instances of each item 
-one2one = []
-one2two = []
-one2four = []
-one2eight = []
+one2dups = []
 
 for dups in duplicates.values():
-    one2one.append(dups[0:1])
-    one2two.append(dups[0:2])
-    one2four.append(dups[0:4])
-    one2eight.append(dups[0:8])
+    one2dups.append(dups[0:args.dups])
 
-one2one = [item for sublist in one2one for item in sublist]
-one2two = [item for sublist in one2two for item in sublist]
-one2four = [item for sublist in one2four for item in sublist]
-one2eight = [item for sublist in one2eight for item in sublist]
+one2dups = [item for sublist in one2dups for item in sublist]
 
 # save csv files of our experiment training sets
-train.iloc[one2one].to_csv('experiment_data/one2one_train.csv', index=True)
-train.iloc[one2two].to_csv('experiment_data/one2two_train.csv', index=True)
-train.iloc[one2four].to_csv('experiment_data/one2four_train.csv', index=True)
-train.iloc[one2eight].to_csv('experiment_data/one2eight_train.csv', index=True)
+train.iloc[one2dups].to_csv(args.data + '/sw/one_to_' + str(args.dups) + '_train.tsv', index=False, sep='\t')

@@ -53,10 +53,11 @@ def dialect_evaluation_sets(df):
 
     df = validated[validated.index.isin(dialect_set)]
 
+    return df    
 #    return normalize_text(df)
-    return df
+#    return df
 
-dialect_evaluation_sets(kiunguja).to_csv(args.data + '/sw/eval_dialect_kiunguja.tsv', index=False, set='\t')
+dialect_evaluation_sets(kiunguja).to_csv(args.data + '/sw/eval_dialect_kiunguja.tsv', index=False, sep='\t')
 dialect_evaluation_sets(kibajuni).to_csv(args.data + '/sw/eval_dialect_kibajuni.tsv', index=False, sep='\t')
 dialect_evaluation_sets(baratz).to_csv(args.data + '/sw/eval_dialect_baratz.tsv', index=False, sep='\t')
 dialect_evaluation_sets(kimakunduchi).to_csv(args.data + '/sw/eval_dialect_kimakunduchi.tsv', index=False, sep='\t')
@@ -64,6 +65,7 @@ dialect_evaluation_sets(kimvita).to_csv(args.data + '/sw/eval_dialect_kimvita.ts
 dialect_evaluation_sets(kipemba).to_csv(args.data + '/sw/eval_dialect_kipemba.tsv', index=False, sep='\t')
 dialect_evaluation_sets(kitumbatu).to_csv(args.data + '/sw/eval_dialect_kitumbatu.tsv', index=False, sep='\t')
 
+dialect_evaluation_sets(kiunguja).to_csv(args.data + '/sw/eval_dialect_kiunguja.csv', index=False)
 #we then filter them out of the df that we continue working with
 filter_out = pd.concat([kiunguja[0],baratz[0],kibajuni[0],kimakunduchi[0],kimvita[0],kipemba[0],kitumbatu[0]], ignore_index=True)
 filter_out = pd.DataFrame(filter_out)

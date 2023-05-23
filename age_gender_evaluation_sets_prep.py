@@ -5,7 +5,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--data", type=str, help="add the path to your cv corpus directory", required=True)
 args = parser.parse_args()
 
-evaluation = pd.read_csv(args.data + '/sw/validated_without_dialect_domain_eval.tsv', header=None)
+evaluation = pd.read_csv(args.data + '/sw/eval.tsv', sep='\t', low_memory=False)
 
 # save my age and gender evaluation sets
 evaluation[evaluation['gender'] == 'male'].to_csv(args.data + '/sw/eval_gender_male.tsv', index=False, sep='\t')
@@ -16,5 +16,5 @@ pd.concat([evaluation[evaluation['age'] == 'thirties'], evaluation[evaluation['a
 # save my age x gender evaluation sets
 evaluation.loc[(evaluation['gender'] == 'male') & (evaluation['age'] == 'twenties')].to_csv(args.data + '/sw/eval_age_gender_20s_male.tsv', index=False, sep='\t')
 evaluation.loc[(evaluation['gender'] == 'female') & (evaluation['age'] == 'twenties')].to_csv(args.data + '/sw/eval_age_gender_20s_female.tsv', index=False, sep='\t')
-evaluation.loc[(evaluation['gender'] == 'female') & ~(eval0['age'] == 'twenties') & ~(eval0['age'] == 'teens')].to_csv(args.data + '/sw/eval_age_gender_o30s_female.tsv', index=False, sep='\t')
-evaluation.loc[(evaluation['gender'] == 'male') & ~(eval0['age'] == 'twenties') & ~(eval0['age'] == 'teens')].to_csv(args.data + '/sw/eval_age_gender_o30s_male.tsv', index=False, sep='\t')
+evaluation.loc[(evaluation['gender'] == 'female') & ~(evaluation['age'] == 'twenties') & ~(evaluation['age'] == 'teens')].to_csv(args.data + '/sw/eval_age_gender_o30s_female.tsv', index=False, sep='\t')
+evaluation.loc[(evaluation['gender'] == 'male') & ~(evaluation['age'] == 'twenties') & ~(evaluation['age'] == 'teens')].to_csv(args.data + '/sw/eval_age_gender_o30s_male.tsv', index=False, sep='\t')
