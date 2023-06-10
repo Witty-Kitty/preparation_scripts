@@ -1,4 +1,5 @@
 1. the dialect_domain_evaluation_sets_prep.py script
+  - this script creates evaluation sets for ouur dialect and domain data
   - the --data flag expects you to pass the path to your cv corpus directory eg. /media/datasets/cv-corpus-13.0-2023-03-09
   - it expects to find the 'experiment_data' directory with .txt files of the domain and dialect/variant data for fine-tuning and evaluation (so far only dialect/variant) data included
   - it outputs validated_without_dialect_domain_eval.tsv as well as the dialect evaluation sets into the --data directory passed to the script. 
