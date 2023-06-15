@@ -27,7 +27,7 @@ def find_audio_size(subset_dataframe):
     output_df = output_df[['path', 1, 'sentence']]
     output_df.columns = ['wav_filename', 'wav_filesize', 'transcript']
     output_df['wav_filesize'] = output_df['wav_filesize'].astype(float).astype(int)
-    output_df.to_csv(args.data + '/sw/' + args.subset.rsplit('/')[1][:-4] + '_for_coqui.csv', index=False, lineterminator='\n')
+    output_df.to_csv(args.data + '/sw/' + args.subset[:-4] + '_for_coqui.csv', index=False, lineterminator='\n')
 
 subset = pd.read_csv(args.data + '/sw/' + args.subset, sep='\t', low_memory=False)
 find_audio_size(subset)
