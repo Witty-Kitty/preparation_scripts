@@ -3,11 +3,10 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--data", type=str, help="add the path to the directory of your cv data, where the output file should be saved", required=True)
-parser.add_argument("--train", type=str, help="add the path to the tsv for the training data subset", required=True)
 parser.add_argument("--dups", type=int, help="number of duplicates allowed", required=True)
 args = parser.parse_args()
 
-train = pd.read_csv(args.train, sep='\t', low_memory=False)
+train = pd.read_csv(args.data + '/sw/train.tsv', sep='\t', low_memory=False)
 
 
 # dictionary where we will track sentences and their duplicates
