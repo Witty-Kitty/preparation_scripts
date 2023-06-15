@@ -13,7 +13,7 @@ def find_audio_size(subset_dataframe):
     regex = re.compile(r'(File Size *:) ([\d|\.]*)')
     size = []
     for index, row in subset_dataframe.iterrows():
-        prop = subprocess.run(["soxi", args.data + "/sw/clips/clips_wav/" + subset_dataframe.loc[index]['path'][:-4] + ".wav"], text=True, capture_output=True)
+        prop = subprocess.run(["soxi", args.data + "/sw/clips/" + subset_dataframe.loc[index]['path'][:-4] + ".wav"], text=True, capture_output=True)
         size.append([index,regex.search(str(prop)).group(2)])
 
     audio_sizes = pd.DataFrame(size)
@@ -22,7 +22,7 @@ def find_audio_size(subset_dataframe):
 #   Add the size column to the dataframe
     output_df = pd.concat([subset_dataframe,audio_sizes], axis=1)
     output_df['path'] = output_df['path'].str[:-4] + '.wav'
-    output_df['path'] = args.data + '/sw/clips/clips_wav/' + output_df['path']
+    output_df['path'] = args.data + '/sw/clips/' + output_df['path']
 #   take only the columns needed for training with coqui ai STT toolkit
     output_df = output_df[['path', 1, 'sentence']]
     output_df.columns = ['wav_filename', 'wav_filesize', 'transcript']
