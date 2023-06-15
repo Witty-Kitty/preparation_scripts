@@ -24,7 +24,7 @@ kipemba = pd.read_csv('experiment_data/sw-kipemba.txt', header=None)
 kitumbatu = pd.read_csv('experiment_data/sw-kitumbatu.txt', header=None)
 
 #we also filter out sentences/transcripts in our data which contain characters not in the standard kiswahili alphabet
-sentences_with_unusual_characters = pd.read_csv('experiment_data/sentences_with_unusual_characters.txt', header=None)
+sentences_with_unusual_characters = pd.read_fwf('experiment_data/sentences_with_unusual_characters.txt', header=None)
 
 # function to save our dialect/variant evaluation sets, we want to save these in alignment with the rest of our subsets
 def dialect_evaluation_sets(df):
