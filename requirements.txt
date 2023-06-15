@@ -3,5 +3,6 @@ ffmpeg
 pandas
 re
 sklearn
+sox
 string
 subprocess
