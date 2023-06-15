@@ -23,6 +23,9 @@ kimvita = pd.read_csv('experiment_data/sw-kimvita.txt', header=None)
 kipemba = pd.read_csv('experiment_data/sw-kipemba.txt', header=None)
 kitumbatu = pd.read_csv('experiment_data/sw-kitumbatu.txt', header=None)
 
+#we also filter out sentences/transcripts in our data which contain characters not in the standard kiswahili alphabet
+sentences_with_unusual_characters = pd.read_csv('experiment_data/sentences_with_unusual_characters.txt', header=None)
+
 # function to save our dialect/variant evaluation sets, we want to save these in alignment with the rest of our subsets
 def dialect_evaluation_sets(df):
     dialect_set = []
@@ -45,7 +48,7 @@ dialect_evaluation_sets(kitumbatu).to_csv(args.data + '/sw/eval_dialect_kitumbat
 
 dialect_evaluation_sets(kiunguja).to_csv(args.data + '/sw/eval_dialect_kiunguja.csv', index=False)
 #we then filter them out of the df that we continue working with
-filter_out = pd.concat([kiunguja[0],baratz[0],kibajuni[0],kimakunduchi[0],kimvita[0],kipemba[0],kitumbatu[0]], ignore_index=True)
+filter_out = pd.concat([kiunguja[0],baratz[0],kibajuni[0],kimakunduchi[0],kimvita[0],kipemba[0],kitumbatu[0],sentences_with_unusual_characters[0]], ignore_index=True)
 filter_out = pd.DataFrame(filter_out)
 
 # finding the instances from the filter_out set
