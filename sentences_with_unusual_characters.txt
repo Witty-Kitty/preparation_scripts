@@ -1,0 +1,796 @@
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Kuchanganyikiwa kusiko kwa kawaida•
+Maumivu na shinikizo lisilokwisha katika kifua•
+Mzigo una tonobari usije	2	0	twenties	female			sw	
+5542be0d92e71ef6b637ca9dfd28d6927507f71821aa8b5abade4625016fc3a8bf36a78b67e1f25978d13010d8eb7d9a35472a65564dd6a5ceb89c84c428d1ba	common_voice_sw_32116902.mp3	Wisaga uuke.	3	0	twenties	female			sw	
+5542be0d92e71ef6b637ca9dfd28d6927507f71821aa8b5abade4625016fc3a8bf36a78b67e1f25978d13010d8eb7d9a35472a65564dd6a5ceb89c84c428d1ba	common_voice_sw_32116903.mp3	Nkarafuu pia nikiungo huchiwa kwenye chai kavu.	3	1	twenties	female			sw	
+5542be0d92e71ef6b637ca9dfd28d6927507f71821aa8b5abade4625016fc3a8bf36a78b67e1f25978d13010d8eb7d9a35472a65564dd6a5ceb89c84c428d1ba	common_voice_sw_32116941.mp3	Sebu uporo	2	0	twenties	female			sw	
+5542be0d92e71ef6b637ca9dfd28d6927507f71821aa8b5abade4625016fc3a8bf36a78b67e1f25978d13010d8eb7d9a35472a65564dd6a5ceb89c84c428d1ba	common_voice_sw_32116986.mp3	Vito vote va nguo vintoka	4	2	twenties	female			sw	
+5542be0d92e71ef6b637ca9dfd28d6927507f71821aa8b5abade4625016fc3a8bf36a78b67e1f25978d13010d8eb7d9a35472a65564dd6a5ceb89c84c428d1ba	common_voice_sw_32116989.mp3	Nenda ukalime shambani	2	0	twenties	female			sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37056696.mp3	dishi wetu wa somalia fatma hassan bur	14	2					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37056724.mp3	nashukuru sana grace	5	3					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37056953.mp3	na uwezo na ujuzi wa kuchunguza ufisadi ili	9	5					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37057016.mp3	mfumo huo umetengenezwa chini ya sera za udhibiti wa fedha	2	0					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37057159.mp3	tunayoweza kutumia pamoja na wenzetu	4	2					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37058245.mp3	nyuzi joto zipungue kwa degree moja	3	2					sw	
+6a346a536976f2dd70e583a1e20b037683b6c3ebf18948b6032be87c7c5a135916919436fc590cbc8867bb49732afa2d556a5418ac5dc8ec5652f43c317e3716	common_voice_sw_37058312.mp3	Pamoja na uwezo wake wa kuongea lugha zaidi ya tatu na kwa ubunifu	5	0					sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37084403.mp3	kuna kuna uwezekano kwamba kitimu cha mpito kita	2	0	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37084657.mp3	Uteuzi huo ulitangazwa jana na mkurugenzi wa mawasiliano ya rais Ikulu	9	5	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37084891.mp3	huona imani ya Kikristo haihusiki na taratibu za dunia hii au huona ni wajibu	2	0	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37085255.mp3	walio haiKuna kipindi wakati wa Utawala wa Rais Kikwete jina la Mpango lilikuwa	6	5	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37085491.mp3	Yesu kwa Kiebrania יYeshua kifupisho cha Yeoshua yaani Mungu anaokoa	2	0	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37086513.mp3	satire yao na caricature ni mauaji mtu anaweza kusema	2	0	twenties	male			sw	
+77c1d125b03bf32c3e8efb5c213b3152992c6e559bd4147feb0727bf59b43d561cadbbe7ff7b945db7a86a497dd3daa429cb903f51d5685d855f124d4812c8a3	common_voice_sw_37087911.mp3	Uingereza Hii inaweza kuonekana wazi lakini kama	9	1	twenties	male			sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29229473.mp3	Spishi zote za fuko-dhahabu zinatokea Afrika kusini kwa Sahara.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29297229.mp3	Vikosi vya walinzi wa amani hawana mamlaka ya kuchukua upande au kushiriki katika mapigano.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29301405.mp3	Anaheshimiwa na Kanisa Katoliki, Waorthodoksi, Waorthodoksi wa Mashariki, Walutheri na Waanglikana kama mtakatifu mfiadini.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29301797.mp3	Kiko upande wa mashariki wa kisiwa cha Timor.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29301824.mp3	Akon alianza kuandika na kurekodi nyimbo katika studio yake ya nyumbani.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29302060.mp3	Kwenye kiwango cha sifuri halisi hakuna mwendo wa maada au molekuli tena.	2	0					sw	
+7ba7856226cb72de70b69227954d6e02aa7888601aa8115964de09fe8ef7445ac73f16a7c69dd46a5a72480383713204e26cd79ea939b1d9dbe3ba7be42b3cc5	common_voice_sw_29415101.mp3	Kwa hivyo wana macho makubwa ili kuona vizuri kwa giza.	2	0					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146487.mp3	redio ni ghali sana kuifungua na kuiendesha	2	0					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146504.mp3	Siwezi kukupa kitu chochote.	11	0					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146607.mp3	raslimali walikuwa wanapora kutoka eneo hiyo ya	7	4					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146658.mp3	hati fungani zinaiva ndani ya mwaka mmoja	9	1					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146747.mp3	isamila kuna nyenzo za mawe za kale	2	0					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146815.mp3	isha kukagua vikosi vya jeshi ambavyo	2	0					sw	
+7e320337cba6472f2de02594b93e5702e3328e148c2fd4ae661971e55f340a724316e9bf3003896bf00477df1291c5124848caa38926fee5959f5138ffaecf8c	common_voice_sw_35146862.mp3	Ndio maana alidumu sana wizara ya ulizi	8	5					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644575.mp3	Hali hizi zinazidishwa na utaratibu wa kuimarisha kimataifa	2	0					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644610.mp3	saadani ina ukubwa wa kilomita za mraba elfu moja na mia moja	2	1					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644723.mp3	Hakuwa na pesa nyingi hivyo alifanya kazi ndogo kama kusafisha vyombo hotelini	2	0					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644725.mp3	Familia ya Makita ilifika Litembo baada ya Mputa Maseko kuikimbia Songea	2	1					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644726.mp3	na teknolojia umeathiri tamaduni mbalimbali katika jamii za kiafrika tunayoishi	3	1					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644742.mp3	Hata hivyo kwa upande wa idara ya ustawi wa jamii imechukua tahadhari	6	0					sw	
+86b320c96f463dbc28fa8ee89f0b18ddd12a32465f0aab689c753a035e559c1aed95babdb03dfe2cca11580f055f25f309e86c720527b06ef0e04afaff8e83b1	common_voice_sw_30644743.mp3	Kwa asili Wapare hupeleka vijana wakiume jando	2	0					sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_35851400.mp3	alizoshirikishwa kimataifa ni pamoja na wimbo Nitafanya wa msanii Kidumu wa Burundi Sirimba wa	10	1	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_35851404.mp3	Kwa pamoja daraja hilo na barabara zinazoliunganisha na miundo mbinu mingine pamoja na visiwa	2	0	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_35851416.mp3	hivyo kuhitajika mikakati maalum kabla ya kujadili maswala hayo	6	4	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_35851440.mp3	Zawadi ya nyanya imeletwa jana.	2	0	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_36084983.mp3	ametiwa hatiani kwa kosa la kuwa mtazamaji wakati matukio hayo	4	0	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_36085017.mp3	Yeye huenda huko kila siku	4	2	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+944e043bb81c7577dfc16f0e484fdb0eaebab741787162b3ed92e91c5b778c2d106ad302f1c3a1895f98b5c445daf4a8524767cf27501738fdb8a081bdb326b2	common_voice_sw_36085068.mp3	malaria inaweza kusababisha mama mjamzito kufariki wakati wa kujifungua	2	0	twenties	female		Kiswahili cha Bara ya Kenya	sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35866443.mp3	wenyeji WaindioKatika vita ya uhuru wa Marekani makoloni yalipata uhuru	4	1	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35866695.mp3	Alikuwa nguli mwenye historia yenye kuvutia	2	0	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35866698.mp3	wengi kwa uzee magonjwa na njaa Kwaiyo vizazi na vizazi vilitokomea wangali hawajapata makazi	4	0	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35867268.mp3	hindwa kukubaliana katika mambo kadhaa na kwamba wamepanga kuendelea na mazungumzo	3	1	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35867278.mp3	akiwa bagamoyo nchini tanzania	13	0	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35867289.mp3	mara unaotokana na matumizi ya mara kwa mara ya dawa asili au sanisi	5	2	twenties	female			sw	
+a68dbc9fe71a031835e5a0538f5955af28838be68ef99fd5154b20b50f314738e8b24e61aff066b9486428a1c2091ba644742fbc5633fba115988cf52909b85a	common_voice_sw_35867396.mp3	hii ni kweli kabisa kwa sababu sarafi ya uchina	12	8	twenties	female			sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246153.mp3	Mto Kongo ni mto wenye maji mengi katika Afrika yote.	2	1				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246158.mp3	Baada ya masomo alisafiri kutembelea Ufaransa, Uingereza, Algeria, Tunisia na Misri.	2	0				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246159.mp3	Nyingine zipo karibu zaidi na Dunia na nyingine zipo mbali mno.	2	0				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246208.mp3	Kichwa kina umbo wa risasi bila shingo na wenye macho madogo.	2	1				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246211.mp3	Muundo ni sawa kabisa na mashairi.	2	0				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246212.mp3	Pia hufanywa kama kizuizi kwa kelele.	2	0				Kiswahili Sanifu (EA)	sw	
+b6321328cfea81084733836791d3331406c71d4aaad15afba887f360f6eccea85924793f56d39a9c9012c7a0d65183c4cbe501f845f630649aabcb75179369dd	common_voice_sw_28246214.mp3	Mbio mmoja wa dunia yetu kuzunguka jua huitwa mwaka".
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Ntoto ndigi kan’jieleza kwa Kizungu
+Katikati ya mwaka elfu mbili na kumi na nane rubani Admira António alikuwa mwanamke
+Mwedhi hung’ara usiku dhima.
+Kuuma yani nkung’ata yaani
+Chombo hicho kilikuwa hutengenezwa kutokana na pembe za ng’ombe.
+Dakitari k’ona mwili, tanena kensa tumboni,
+Mashindano ni kushindana…
+• Kupumua kwa matatizo•
+Maradhi yanaweza kuambukiza wanyama wengine mifano ni nguruwe, ng’ombe na farasi.
+• Kupumua kwa matatizo•
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+Shangazi kan’yakushanya makonyo yote
+Maumivu na shinikizo lisilokwisha katika kifua•
+Ng’ombe wa jirani amefariki.
+Shangazi kan’yakushanya makonyo yote
+Alama yake ni °C.
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+ïwatu wengine wanasubiri kuona kitakachotokea
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+Nilipofika shule ya upili, Kiswahili kilikuwa somo nililong’ang’ana nalo sana.
+Hii ni mifano ya ujumbe wa kwenye kangaː
+Hii husababisha kung’oka kwa nywele mapema.
+• Toa maneno ya tumaini.
+Kushindwa kuamka au kuwa macho•
+ïwatu wengine wanasubiri kuona kitakachotokea
+Wavyazi wan’weza kulipa ada
+Kuna sehemu nyengine wanasema mimi bwana nimechomwa na mwiba ambapo sisi husema nimedungwa na mwiba…
+Mashindano ni kushindana…
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Ntoto kankuwa m’buma
+Baadaye likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+lakini wakati Frabregas na PiquÃ waliondoka kuelekea England yeye aliamua kubaki Barcelona
+• Toa maneno ya tumaini.
+• Kupumua kwa matatizo•
+Kushindwa kuamka au kuwa macho•
+Ng’ombe ukimbidhie na ndoo idovoni.
+Idau lake nda ny’onge mara ningi halendi joshi.
+Amekonda kama ng’onda
+Mzigo una tonobari usije	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209854.mp3	Shughuli hii sasa imeiva	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209855.mp3	Juma ataka nyimbo za Zuchu	2	1					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209857.mp3	Mombasa raha imekuwa karaha	3	1					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209865.mp3	Juma ansikiliza mwalimu	4	2					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209866.mp3	Tumia siniya	4	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209867.mp3	Mwanzo wa ngoma n'lele	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209874.mp3	Wapika lini katlesi	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209875.mp3	Wangojwa uje ujieleze	3	2					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209876.mp3	Juma ahisi njaa	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209877.mp3	Masikio yake yanasikia vizuri	2	0					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209878.mp3	Unatakiwa kunywa maji ya kutosha.	2	1					sw	
+3c9bda3a89657ee3a39fffe0bd33f390827f2fec2dd3f9cef5aeadf8f0733cb33a8fc54c84af061ea0d8621bc8c58b168b2e05ba2e7c1ec4a5156d5db53fac89	common_voice_sw_32209889.mp3	Chaki ni Kiswahili, chalk ni kizungu"
+Kushindwa kuamka au kuwa macho•
+• Toa maneno ya tumaini.
+kwani nilihisi kwamba nilikuwa nimeng’ang’ana sana na masomo ya hesabu kutoyatumia.
+Maanake ana uwezo	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995212.mp3	Hebu uporo	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995213.mp3	Rehema amesababisha ule ugomvi	2	1					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995215.mp3	Nyele za huyu ni ngumu zataka shanuo	3	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995221.mp3	Asha kanakwimba nyimbo.	4	1					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995223.mp3	Amekuwa mrefu sana	3	1					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995224.mp3	Kichwa kinaungana na singo	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995241.mp3	Ndochumalidha huu.	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995242.mp3	Lipa deni lako	2	1					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995243.mp3	Eo kuna baridi niecheya burangeti niifinike	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995260.mp3	Numbani huchumiwa sana buli kuchiliwa chai	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995262.mp3	Kitabu changu kimakwaga	3	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995263.mp3	Mtoto anaanza kujifunza kusoma	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995264.mp3	Mwenechu ndio mwenye mamlaka chuvoni	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995265.mp3	Ukipawa mamlaka ni lazima uyatekeleze	3	1					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995277.mp3	Kuku kuranyoo hudhaa maingi mengi	2	0					sw	
+8e43727102aa6fcf5dd568b7c899c10215e599bf0ba9fe88a21828030cce38bc0f390434576be82d42b3addacd3e9c02008eb9ad8d58c0419fd95046f11ff140	common_voice_sw_31995278.mp3	Mimi nina huruma, huyu namhurumia"
+Yeye ndiye anayekunywa kwanza damu ya moto ya ngâombe aliyechinjwa
+Ya wachezaji bora wanaoishi wanaoonwa na Pelé
+Mfalme wa Buha alipojibu kuwa Nâabhaha akimaanisha kuwa hawa ni wenyeji wa hapahapa
+Hebu nng’arishiye viatu vyangu
+Amekonda kama ng’onda
+kwani nilihisi kwamba nilikuwa nimeng’ang’ana sana na masomo ya hesabu kutoyatumia.
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+kwani nilihisi kwamba nilikuwa nimeng’ang’ana sana na masomo ya hesabu kutoyatumia.
+Aliyepata tuzo la Kiswahili aliitwa ‘Bingwa wa Kiswahili’.
+Emília Nhalevilo na imetumiwa kwa idhini Mwezi wa tatu mwaka elfu mbili na kumi
+Kuchanganyikiwa kusiko kwa kawaida•
+Alama yake ni µm.
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Maanake ana uwezo	2	0	thirties	male			sw	
+0ca177a68dc516312ca3f61880d1ba4ec88c8dd072ae17ac0effee6ea7f56b374620a42bbb6d90694c352df4560c838f6cffecee9e00a818afafc4e7cd530ea4	common_voice_sw_32243688.mp3	Kuku yule ameoza	2	0	thirties	male			sw	
+0ca177a68dc516312ca3f61880d1ba4ec88c8dd072ae17ac0effee6ea7f56b374620a42bbb6d90694c352df4560c838f6cffecee9e00a818afafc4e7cd530ea4	common_voice_sw_32243689.mp3	Ninamaanisha usije kabisa	2	1	thirties	male			sw	
+0ca177a68dc516312ca3f61880d1ba4ec88c8dd072ae17ac0effee6ea7f56b374620a42bbb6d90694c352df4560c838f6cffecee9e00a818afafc4e7cd530ea4	common_voice_sw_32243690.mp3	Wananchi wanakusanya mawe wajenge	2	1	thirties	male			sw	
+0ca177a68dc516312ca3f61880d1ba4ec88c8dd072ae17ac0effee6ea7f56b374620a42bbb6d90694c352df4560c838f6cffecee9e00a818afafc4e7cd530ea4	common_voice_sw_32243693.mp3	Amesahau shida sasa, starehe tu"
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Nilipofika shule ya upili, Kiswahili kilikuwa somo nililong’ang’ana nalo sana.
+Aliyepata tuzo la Kiswahili aliitwa ‘Bingwa wa Kiswahili’.
+Kuchanganyikiwa kusiko kwa kawaida•
+Alama yake ni µm.
+Nchini Australia, Christiansë alihudhuria Chuo Kikuu cha Sydney.
+Pia inaonekana kwamba mfumo wa opioidi μpokevu ambayo
+Dakitari k’ona mwili, tanena kensa tumboni,
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Njaro ni Kiswahili cha zamani kwa ngâara
+Baba yake JosÃ Dinis Aveiro aliye kuwa anafanya kazi katika bustani ya manispaa
+Maanake ana uwezo	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858720.mp3	Kuanda ni vizuri kwa viungo.	3	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858722.mp3	Msamehe kila anaekufanyia mabaya.	2	1	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858723.mp3	Bidii ya mja haipingi kudura	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858724.mp3	Alipoenda kwa Shehe kushtukia magonjwa ake alipewa kombe anywe ili apone	4	1	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858725.mp3	Wote wadhima?	2	1	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858727.mp3	Bibi aliiyala vibaya akinyuka alivavwa na mmiyo	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858738.mp3	Tizama upande wa kulia.	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858739.mp3	Mimi leo nlikua forodhani	2	1	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858740.mp3	Huyu ni mpangu pakavu ntilie mtuzi	3	1	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858746.mp3	Hili gari likikugonga litakuumiza.	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858764.mp3	Natarajia majibu mimi	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858766.mp3	Wakati ni kama upanga	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858767.mp3	Damu ni damu	3	2	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858773.mp3	Nimeshikika bwana hata kupumua kumenishinda	2	0	fourties	male		Kiswahili cha Bara ya Tanzania	sw	
+28d58f112d8c8d8f0142787356a99f8fdbc493edc7a404fea3eea7e28f71030a0276e37cc662fbe2398119614202810c17683e2b4e89f0899f3a7b795319d171	common_voice_sw_31858776.mp3	Kutua kichungu,kukusanya,"
+Idau lake nda ny’onge mara ningi halendi joshi.
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Shabaha…Yule mjamaa ana shaba kweli
+Babu achoma maji	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996096.mp3	Tujifunzeni kusoma kwa bidii	8	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996135.mp3	Jito limemtoka pima	24	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996137.mp3	Jumba ni kubwa	12	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996159.mp3	Penda upendwapo	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996160.mp3	Uso wake ni mzuri kama mama yake.	12	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996161.mp3	Kwimba wima	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996162.mp3	Kata pua uunge wajihi	8	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996163.mp3	uharibu wa vyanzo vya maji ni athari katika Jamii.	8	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996185.mp3	Matibabu ya ugonjwa wa figo ni gali nno kwa masikini	20	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996186.mp3	Alimtukana hakumbakisha	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996191.mp3	Chakula kimemalizika mezani	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996192.mp3	Jumuisha mambo haya katika malengo yako.	8	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996217.mp3	Jitahidi kusahau maovu yao.	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996218.mp3	Changia damu ili kuokoa maisha ya watu wengine.	8	0	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996219.mp3	akili	12	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996220.mp3	Ameshika wezi shambani	8	4	twenties	female	My accept is to recognize and record different sounds and voices,Especial in swahili,Normal Arusha accent	Kiswahili cha Bara ya Tanzania	sw	
+4a574662c2671fd653b989b76e93981b1c4974bfe1ffb1df7580244309161d90c2d7439bf21f12566c8af2bb654b31f6769a20562172952a499623073ed398a2	common_voice_sw_31996263.mp3	Imani ni kuamini; mimi nna imani na Mungu"
+Kula kwa kiasi…Maneno yako ni ya kiasi
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Wengine wanasema maneno yake yamenichoma sana…
+Maanake ana uwezo	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318305.mp3	Tembea kwa ukakamavu.	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318552.mp3	Kuna maulidi msikitini	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318556.mp3	Kapata shilingi ngapi	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318557.mp3	Amekuja kumchukua	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318558.mp3	Kuteleza si kuanguka	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318574.mp3	Dhahabu ni pambo la mwanamke	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318575.mp3	Natamani kukaa na familia yangu	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32318577.mp3	Maji ya kupwa, maji yamejaa, maji yavuta"
+Amekonda kama ng’onda
+Mzigo una tonobari usije	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319413.mp3	Kuna kiangazi huko Turkana	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319440.mp3	Toa juisi frijini	4	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319444.mp3	Wananchi wanakusanya mawe wajenge	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319446.mp3	Wageni waalikwa wamewasili	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319449.mp3	Nenda kuangalia ile meli forodhani kama imetia nanga bandarini	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319485.mp3	Onyesha upendo kwa kuvaa barakoa.	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319486.mp3	Mungu kamuumba kwa udongo	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319487.mp3	Mpira walioupiga umepasuka.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319490.mp3	Chukua hii weka badala ya ile	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319501.mp3	Mjomba amiliki nyumba na gari	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319502.mp3	Unshanunua glopu mpya?	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319520.mp3	Fikia malengo yako kwa kujali muda usipotee.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319521.mp3	Kesho tutaenda kazini mapema.	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319522.mp3	Kufanya pia ni jambo	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319524.mp3	Taja aina tatu za vitenzi.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319526.mp3	Ule mti nimeuangusha sasa napasua mbao	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319552.mp3	Jibu maswali yote katika sehemu hii.	4	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319554.mp3	Anakaanga chapati	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32319556.mp3	Kujenga,kutomea,kukandika"
+Kula kwa kiasi…Maneno yako ni ya kiasi
+Kama jamaa akiwa anadungadunga watu	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320300.mp3	Leo nitatembelea wagonjwa hospitalini	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320306.mp3	wanafunzi wamekubali kufanya mitihani.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320307.mp3	Daktari amepotea njia	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320308.mp3	Moyo ni moyo wa vyema	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320309.mp3	Paka akitoka panya hutawala	3	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320310.mp3	akili	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320312.mp3	Asili ni muongo	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320314.mp3	Pumbao, yule mjamaa amepumbaa sana"
+Babu achoma maji	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320344.mp3	Mtanzania ametengeneza gari aina ya STZ	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320346.mp3	Tangu forodhani kufungwe hakuna tena uvuvi wa haja Mombasa	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320347.mp3	Sema kwa sauti tukusikie	5	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320349.mp3	Kuwepo kwa mazingira safi ni bora kwa afya zetu.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320350.mp3	Yakuhusu nini?	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320356.mp3	Mimi nahusiana na huyu ki damu	3	2	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320357.mp3	Majeruhi wamenusurika kifo	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320358.mp3	Binadamu ni mwenye umbo bora.	3	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320360.mp3	Kila mwanafunzi anatakiwa kulipa pesa ya ada.	3	2	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320363.mp3	Nyumba yao ina dari ya boriti kama nyumba za kizamani	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320371.mp3	Yaliyo Pemba na Unguja yako	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320372.mp3	Tunapima joto katika vitengo vipi ?	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320374.mp3	Kuna halaiki ya watu. Kuna umati wa watu. Raila amepata umati mkubwa wa watu. Amepata uma wa watu.	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320375.mp3	Nshachoka kupanda hizi ngazi	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320386.mp3	Joseph anamjali sana mpenzi wake	3	2	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320387.mp3	Kivumbani ni dawa kuru ukiumwa na kichwa	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320388.mp3	Mlango wao una nakshi nzuri	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320390.mp3	Mzee Mwinyi mkarimu sana	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320403.mp3	Huyu mtu ng'ombe sana	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320404.mp3	Kanunue viazi na uji kwa Shiri	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320405.mp3	Awadhi wadhifa wake ni mkubwa kazini kwao	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320416.mp3	Mungu anaangalia sana maamuzi yako.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320418.mp3	Ana wadhifa katika sehemu fulani	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320419.mp3	Yule muimbaji ana haiba kwelikweli akiimba	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320428.mp3	Ameshinda gari jipya	3	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320429.mp3	Unatakiwa kuondoka kesho asubuhi mapema.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320430.mp3	Nyuma ni nyuma tu	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320436.mp3	Alijibu maswali yote	3	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320437.mp3	Abasi ana cheo kikubwa kazini kwake bwana	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320438.mp3	Geuza gari yako kwa umakini.	3	2	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320439.mp3	Mwanafunzi amefikia malengo yake.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320446.mp3	Jumba laporomoka	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320447.mp3	Polisi walihusisha magereza katika kubadili tabia za watu	3	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320448.mp3	Herufi zinajumuisha irabu na konsonanti	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320449.mp3	Shabaha…Yule mjamaa ana shaba kweli	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320451.mp3	Watoto wacheza topeni	2	0	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320453.mp3	Wisha mabuku yako.	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320454.mp3	Udi wake wanuka vibaya	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320455.mp3	Uso wake ni mzuri kama mama yake.	3	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320456.mp3	Ukaswali kutafanikiwa	2	1	twenties	male			sw	
+76bf68cdeba9de8923e99eed3b82ce7effc8e94be789045f27a650d34af8bddb14778ade864011df0768e197553dc9f7b0f3b4a438efd3bf1d20a16f218323de	common_voice_sw_32320457.mp3	Nipe chenji yangu
+Kuna sehemu nyengine wanasema mimi bwana nimechomwa na mwiba ambapo sisi husema nimedungwa na mwiba…
+Wakati mwingine pia huitwa ‘’wimbo wake wa sahihi’’.
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+• Kupumua kwa matatizo•
+Kikuu cha Umma MsumbijiEmília Nhalevilo Mkuu wa chuo kikuu cha Púnguè Picha na
+Wengine wanasema maneno yake yamenichoma sana…
+Ng’ombe ukimbidhie na ndoo idovoni.
+Ntoto kankuwa m’buma
+Shabaha…Yule mjamaa ana shaba kweli
+Amekonda kama ng’onda
+Tunaarifiwa kuwa Ali yu n’gonjwa
+Ntoto ndigi kan’jieleza kwa Kizungu
+Amekonda kama ng’onda
+Tunaarifiwa kuwa Ali yu n’gonjwa
+Ni nyanyi* apendao kuchia mafuta madhuri siku a sherehe.
+Kuuma yani nkung’ata yaani
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+Kuna sehemu nyengine wanasema mimi bwana nimechomwa na mwiba ambapo sisi husema nimedungwa na mwiba…
+Hizo zote zinaonekana kwangu zinang’aa kwa upendo.
+Joana Antónia Quintas.
+Katika Afrika ya Mashariki kunaː
+Karibu na Ngâiriama mto unatoka katika Usangu na kuingia hifadhi ya kitaifa ya Ruaha
+Hasa alichunguza vimeng’enya vya chembe hai.
+Ni wakati wa kukutana na wewe”.
+Baba yangu ni ‘mkali’ sana kwenye mambo ya Elimu.
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Wa serikali ya Cuba chini ya Rais Ramón Grau aliyekuwepo wakati huo
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+Kuanzia tarehe ishirini na tatu Novemba hadi alipongâatuka kutoka madarakani
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+Karibu na Ngâiriama mto unatoka katika Usangu na kuingia hifadhi ya kitaifa ya Ruaha
+Babu achoma maji	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32205760.mp3	Watoto wale ni patha za nde.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32205762.mp3	Ukaja chai yako tayari.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32205764.mp3	Ng'ombe siku hidhi dha chaka hupacha tabu sana a mai na chakula	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206897.mp3	Vana vechu vakingilia vunga mara niingi vapenda kujepa.	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206898.mp3	Ukimaliza kula weka vyombo karoni	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206943.mp3	Ndiva vechu huketi kidhani.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206946.mp3	Dalili a vua ni mavingu	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206973.mp3	Bado mdogo hata kidevu hakijamea ndevu	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206976.mp3	Juma eradua mame kuliko babaye	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206993.mp3	kazi yako sinaigoma.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206994.mp3	Kuku yule ameoza	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206995.mp3	Mtoto kelekwa kichicha	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32206996.mp3	Watoto wanaendelea kuimba	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207008.mp3	Ilimu ni lazima	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207009.mp3	Anakaanga chapati	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207010.mp3	Nimemkatia kipande halati wangu	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207011.mp3	Moyo ni moyo wa vyema	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207012.mp3	Isi vanadamu huchia isi bakulini	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207035.mp3	Tulipojenga twelazimika kuvunja	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207037.mp3	Mtoto anlala	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207047.mp3	Tunaweza sema pia nipe baki yangu	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207048.mp3	Uonao m si mato	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207049.mp3	Kanasaka mkoba wake.	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207050.mp3	Hebu nng’arishiye viatu vyangu	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207051.mp3	Isi hula isi Ramadhani.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207062.mp3	Mtambo wa kusaga unga	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207063.mp3	Zungumza kwa sauti ya upole.	4	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207065.mp3	Vanavake huchumia ibafe kufulia nguvo	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207066.mp3	Indi ukinynyulia nkonotu huva ashauka	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207092.mp3	Tutatembelea vivutio vya utalii	4	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207094.mp3	Kwanuka mashimo yanzibika	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207108.mp3	Mungu aliumba hii dunia	7	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207109.mp3	Nimemkatia kipande cha mkate	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207110.mp3	Zulia hilo lishachoka	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207111.mp3	Tabiya ni tabiya tu	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207139.mp3	Wali uliochiwa kwenye sahani umesuka	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207140.mp3	Mwizi baiskili anshikwa	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207141.mp3	Atafta kazi kwa udi na uvumba	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207142.mp3	Mthezaji mzuri yule	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207156.mp3	Kwamini kama dada kaja.	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207159.mp3	Ana mkono wa buli	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32207162.mp3	Ali alikuwa kipande cha mtu	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230455.mp3	Ali ameumwa na mbuvo mpaka amepekwa sipichali	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230458.mp3	Ukanyaza namiye nakwaza	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230507.mp3	Nkopesha pesa kidogo.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230509.mp3	Tunamtegemelya soti kuwa vyeye ni mcheaji mzuri	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230540.mp3	Endelea kuishi Maisha mazuri.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230542.mp3	Leo kumpikwa nini?	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230544.mp3	Nakuuza swali unjibu.	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230547.mp3	Yule bwana apenda kutekesha watu	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230549.mp3	Kiva hubiki nsuaki ndomo huva hunuka vibaya	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230565.mp3	Kuza samaki woti	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230567.mp3	Siyanena nae mara andhaniukia	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230585.mp3	Mwana vao ni mchukuchu dhana	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230588.mp3	Hupenda kukiri nae.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230606.mp3	Mpigie simu aje kesho unju.	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230607.mp3	Dini zinafunza tumaini la Yesu	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230608.mp3	Kisu cha baba cha kukachia naama kimepotea	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230621.mp3	Jibwa aburuta ngovi	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230622.mp3	Nkanzi enkanda guu lililoumia	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230623.mp3	Tunaweza kusema nipe baki yangu iliyobakia	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230644.mp3	Nguvo za yule mwanahavule hunuka uvundo	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230646.mp3	Nkipacha senthi thanunuva mabita niyee	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230647.mp3	Kengele hulia vana varudi sikuli mapema.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230648.mp3	Ama kiwiliwili change leo sijisikii vizuri	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230656.mp3	Nilie mahamuri na chai ndha madhiva	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230659.mp3	Kichwa kinaungana na singo	10	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230683.mp3	Kuuma yani nkung’ata yaani	3	2					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230718.mp3	Mahindi hayajagambulwa	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230719.mp3	Hachufungi idirisha la mwisho.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230720.mp3	Mwanafundi hodari ni ule ambae hujibu maswali a mwalimu wake.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32230721.mp3	Kakoa,kwa mai apwani."
+Ni nyanyi* apendao kuchia mafuta madhuri siku a sherehe.
+Wavyazi wan’weza kulipa ada
+Idau lake nda ny’onge mara ningi halendi joshi.
+Mzigo una tonobari usije	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243033.mp3	Binadamu wote wavuta pumzi	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243040.mp3	Nyumbani kwetu kuna mlango mkubwa	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243041.mp3	Najaribu kuomba kazi ela sefanikiwa	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243042.mp3	Shaba ni madini	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243043.mp3	Imba nyimbo nzuri.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243064.mp3	Mzee ameshikilia simu	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243068.mp3	Chapati zishatolewa frijini	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243086.mp3	Havule yule ana kichwa kikuru lakini hana ashikalo skuli	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243094.mp3	Ajuza aliyeshi miaka mia	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243096.mp3	Twalya Chao mapema	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243098.mp3	Vulga kwa mikono miwili	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243099.mp3	Mke wake hapitwi na harusi	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243256.mp3	Yule mtoto unga ameukanda	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243258.mp3	Waumini wanatoa sadaka	5	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243259.mp3	Nkungu wechu kungu dhake ni tamu.	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243260.mp3	Siagi ni ya kupaka kwenye mkate yatokana na maziwa	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243279.mp3	Wanafunzi wanachangisha michango	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243280.mp3	Kapata shilingi ngapi	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243318.mp3	Kuanda ni vizuri kwa viungo.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243319.mp3	Tamu ya chai n'sukari	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243321.mp3	Ndochumalidha huu.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243332.mp3	Ibini ni kuku ambae ndo andaa kuvika.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243333.mp3	Daktari amegundua ugonjwa wake	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243335.mp3	Ameathirika yule	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243336.mp3	Penda upendwapo	3	2					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243337.mp3	Mtenda mimba hanavyeza kwenenda	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243362.mp3	Vijana wamebadilika sana	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243365.mp3	uso	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243366.mp3	Wanafunzi wampanga meza vizuri	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243367.mp3	Amepata simu yake mwenyewe.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243399.mp3	Fagia uwanja kwa kutumia ufyagio.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243400.mp3	Nfanikiwa mtihani wangu.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243401.mp3	Serikali ilitumia fedha nyingi katika mradi wa maji.	3	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243402.mp3	Andika sentensi zote kwa usahihi.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243404.mp3	Mwana huyu n'kikojozi	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243414.mp3	Anauguza maumivu ya moyo	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243416.mp3	Ukesa njoo ukande unga.	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243418.mp3	Asha kanashindana hananyamaza.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243419.mp3	Yule mama adondoa mtele	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243437.mp3	Nikienda harusini nitachia mafucha madhuri ninukie vidhuri	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243438.mp3	Wakulima wameweza kuuza mazao yao yote.	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243439.mp3	Kuna maulidi msikitini	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243441.mp3	Faraja ni jamaa amepata afwan	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243465.mp3	Awadhi ataataa hajui afanyalo	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243468.mp3	Furemu a nlango imejepwa	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243469.mp3	Mama anapungiza kipimo cha chakula	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243500.mp3	Umi una ubani wa moto?	3	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243502.mp3	Wazee wanategemea misaada ya watoto wao	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243504.mp3	Sukuma gari ikamate moto.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243549.mp3	Anapenga kamasi	2	1					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243551.mp3	Mla kuku wa mwenziwe maguu yamlekele	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243552.mp3	Ishadha hukacha.	2	0					sw	
+49d5bef182274e2d409c9256678cc2f4e394ca94f7f518dbb10f2a3de06a0a57d9f5512731507b32dfe75d605c9537bc6fc817b0fa672e8690569084b0733381	common_voice_sw_32243553.mp3	Muhogo, muhogo kwa isi ni tamu."
+Shabaha…Yule mjamaa ana shaba kweli
+Mashindano ni kushindana…
+Kula kwa kiasi…Maneno yako ni ya kiasi
+Tunaarifiwa kuwa Ali yu n’gonjwa
+Wengine wanasema maneno yake yamenichoma sana…
+Mashindano ni kushindana…
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Baba yake JosÃ Dinis Aveiro aliye kuwa anafanya kazi katika bustani ya manispaa
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+Aliweza kupata fedha baada ya kuuza ng’ombe kadhaa wa mamake.
+Rømer alitambua kwamba mabadiliko haya yako tofauti kulingana na majira ya mwaka.
+Kúmókụn alisomea, na kupata leseni katika Mipango ya Miji.
+wakati ule alama yake ilikuwa µµ.
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Tunaarifiwa kuwa Ali yu n’gonjwa
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+Wangâhoo waliamua kuwa wakishinda vita watavunja silaha zao zote
+Emmanuel Gabriel Alingâara ndani ya Simba
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Akiwa darasa la tano aliacha masomo na kujikita zaidi kwenye kuchunga nâgombe
+Emmanuel Gabriel Alingâara ndani ya Simba
+Urithi wao ni watu na ngâombe Walihamia
+Na baadae likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Akiwa darasa la tano aliacha masomo na kujikita zaidi kwenye kuchunga nâgombe
+Emmanuel Gabriel Alingâara ndani ya Simba
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Baadaye likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Akiwa darasa la tano aliacha masomo na kujikita zaidi kwenye kuchunga nâgombe
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Alikuwa tayari ana uwezo wa kuchunga nâgombe wengi
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Mkondo wa maji vuguvugu unapita humo kutoka kusini kuelekea kaskazini unaoitwa kwa Kijapani "Tsushima-kairyū".
+Kifupi rasmi ni ‘Cha’.
+Villaseñor ni "Mlatina".
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+Aliyepata tuzo la Kiswahili aliitwa ‘Bingwa wa Kiswahili’.
+• Kupumua kwa matatizo•
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Wangâhoo waliamua kuwa wakishinda vita watavunja silaha zao zote
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Aliyepata tuzo la Kiswahili aliitwa ‘Bingwa wa Kiswahili’.
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+kwani nilihisi kwamba nilikuwa nimeng’ang’ana sana na masomo ya hesabu kutoyatumia.
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Mama yake Lina Ruz González alikuwa kijakazi aliyefanya shughuli za shambani
+Kwenye timu yake ya kitaifa akiwa na Pelé tu
+Mama alisema, “Kila mtoto ahakikishe anarudi nyumbani kabla ya saa sita jioni.”
+Yeye alifanya mazoezi ya riadha katika chuo kikuu cha St. Mary’s.
+Kufuatana na uainishaji wa lugha, Kitai-Dón iko katika kundi la Kitai ya Kusini-Magharibi.
+Baba yangu ni ‘mkali’ sana kwenye mambo ya Elimu.
+Rømer pia alianzisha vyuo kwa mabaharia katika miji kadhaa ya Denmark.
+Fimbo au mkono wake ulikuwa wa pembe ya tembo au ng’ombe.
+Joana Antónia Quintas.
+Mkondo wa maji vuguvugu unapita humo kutoka kusini kuelekea kaskazini unaoitwa kwa Kijapani "Tsushima-kairyū".
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Yeye ndiye anayekunywa kwanza damu ya moto ya ngâombe aliyechinjwa
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Emmanuel Gabriel Alingâara ndani ya Simba
+Akiwa darasa la tano aliacha masomo na kujikita zaidi kwenye kuchunga nâgombe
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Ana mpango wa kusafiri ngámbo
+kuna uhaba wa wafadhiliː hiyo husababisha timu ambazo hazina uwezo wa kiuchumi kukata tamaa
+Aliweza kupata fedha baada ya kuuza ng’ombe kadhaa wa mamake.
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Alikuwa tayari ana uwezo wa kuchunga nâgombe wengi
+Urithi wao ni watu na ngâombe Walihamia
+Wadorobo ni kundi la wawindaji na wakusanyaji ambao hawakupokea ngâombe yoyote
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Akiwa darasa la tano aliacha masomo na kujikita zaidi kwenye kuchunga nâgombe
+Baba yake JosÃ Dinis Aveiro aliye kuwa anafanya kazi katika bustani ya manispaa
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Njaro ni Kiswahili cha zamani kwa ngâara
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+Aliweza kupata fedha baada ya kuuza ng’ombe kadhaa wa mamake.
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Na baadae likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+Na baadae likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Baadaye likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Kuanzia tarehe ishirini na tatu Novemba hadi alipongâatuka kutoka madarakani
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Wadorobo ni kundi la wawindaji na wakusanyaji ambao hawakupokea ngâombe yoyote
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Mifugo yao kama kondoo mbuzi na ngoâmbe na wanyamapori
+Baadaye likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Njaro ni Kiswahili cha zamani kwa ngâara
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Urithi wao ni watu na ngâombe Walihamia
+Baba yake JosÃ Dinis Aveiro aliye kuwa anafanya kazi katika bustani ya manispaa
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Wangâhoo waliamua kuwa wakishinda vita watavunja silaha zao zote
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Nchini Australia, Christiansë alihudhuria Chuo Kikuu cha Sydney.
+Aliweza kupata fedha baada ya kuuza ng’ombe kadhaa wa mamake.
+Hasa alichunguza vimeng’enya vya chembe hai.
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Kifupi rasmi ni ‘Cha’.
+Mkondo wa maji vuguvugu unapita humo kutoka kusini kuelekea kaskazini unaoitwa kwa Kijapani "Tsushima-kairyū".
+Karibu na Ngâiriama mto unatoka katika Usangu na kuingia hifadhi ya kitaifa ya Ruaha
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+lakini wakati Frabregas na PiquÃ waliondoka kuelekea England yeye aliamua kubaki Barcelona
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+Aliyepata tuzo la Kiswahili aliitwa ‘Bingwa wa Kiswahili’.
+Kuchanganyikiwa kusiko kwa kawaida•
+• Toa maneno ya tumaini.
+• Kupumua kwa matatizo•
+Nilipofika shule ya upili, Kiswahili kilikuwa somo nililong’ang’ana nalo sana.
+Kushindwa kuamka au kuwa macho•
+Idau lake nda ny’onge mara ningi halendi joshi.
+Yule mtoto amemuuma mwenzake, yule ameumwa na mbwa yule…
+Shangazi kan’yakushanya makonyo yote
+Hizo zote zinaonekana kwangu zinang’aa kwa upendo.
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Kuanzia tarehe ishirini na tatu Novemba hadi alipongâatuka kutoka madarakani
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+ïwatu wengine wanasubiri kuona kitakachotokea
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+alicheza mara kwa mara na kaka zake wakubwa Rodrigo na MatÃas na binamu zake
+Kúmókụn alisomea, na kupata leseni katika Mipango ya Miji.
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+Mifugo yao kama kondoo mbuzi na ngoâmbe na wanyamapori
+Mfalme wa Buha alipojibu kuwa Nâabhaha akimaanisha kuwa hawa ni wenyeji wa hapahapa
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+Wangâhoo waliamua kuwa wakishinda vita watavunja silaha zao zote
+Karibu na Ngâiriama mto unatoka katika Usangu na kuingia hifadhi ya kitaifa ya Ruaha
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Urithi wao ni watu na ngâombe Walihamia
+Aliolewa na Bernow, Lindström, Ziems, na Renat.
+lakini wakati Frabregas na PiquÃ waliondoka kuelekea England yeye aliamua kubaki Barcelona
+Njaro ni Kiswahili cha zamani kwa ngâara
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+Emmanuel Gabriel Alingâara ndani ya Simba
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+ïwatu wengine wanasubiri kuona kitakachotokea
+Mfalme wa Buha alipojibu kuwa Nâabhaha akimaanisha kuwa hawa ni wenyeji wa hapahapa
+lakini wakati Frabregas na PiquÃ waliondoka kuelekea England yeye aliamua kubaki Barcelona
+Yeye ndiye anayekunywa kwanza damu ya moto ya ngâombe aliyechinjwa
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+Urithi wao ni watu na ngâombe Walihamia
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Njaro ni Kiswahili cha zamani kwa ngâara
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Wadorobo ni kundi la wawindaji na wakusanyaji ambao hawakupokea ngâombe yoyote
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Wangâhoo waliamua kuwa wakishinda vita watavunja silaha zao zote
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+Mfalme wa Buha alipojibu kuwa Nâabhaha akimaanisha kuwa hawa ni wenyeji wa hapahapa
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Na baadae likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Mifugo yao kama kondoo mbuzi na ngoâmbe na wanyamapori
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+alicheza mara kwa mara na kaka zake wakubwa Rodrigo na MatÃas na binamu zake
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Alikuwa tayari ana uwezo wa kuchunga nâgombe wengi
+ïwatu wengine wanasubiri kuona kitakachotokea
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+Emmanuel Gabriel Alingâara ndani ya Simba
+Jibu ni Kampuni ya Samâs Tours and Safaris
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+Njaro ni Kiswahili cha zamani kwa ngâara
+Wadorobo ni kundi la wawindaji na wakusanyaji ambao hawakupokea ngâombe yoyote
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Mifugo yao kama kondoo mbuzi na ngoâmbe na wanyamapori
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Alikuwa tayari ana uwezo wa kuchunga nâgombe wengi
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Maumivu na shinikizo lisilokwisha katika kifua•
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Kuanzia tarehe ishirini na tatu Novemba hadi alipongâatuka kutoka madarakani
+Urithi wao ni watu na ngâombe Walihamia
+• Toa maneno ya tumaini.
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Yeye ndiye anayekunywa kwanza damu ya moto ya ngâombe aliyechinjwa
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+alicheza mara kwa mara na kaka zake wakubwa Rodrigo na MatÃas na binamu zake
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Urithi wao ni watu na ngâombe Walihamia
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+Jibu ni Kampuni ya Samâs Tours and Safaris
+ïCorona ni jamii kubwa ya virusi vinavyosababisha maradhi kwa wanyama na binadamu
+ïwatu wengine wanasubiri kuona kitakachotokea
+Njaro ni Kiswahili cha zamani kwa ngâara
+Elfu moja mia nane themanini na nane aliitwa Jacob Lumwe au Jacob Ngâombe
+Mazao kama mahindi maharage mihogo minazi na mazao mengineyoâŠ
+Dengua husababishwa na virusi ambao hukupata baada ya kungâatwa na mbu
+Miongoni mwa wanajeshi walitoka kwenye ukoo wa Wangâhoo
+lakini wakati Frabregas na PiquÃ waliondoka kuelekea England yeye aliamua kubaki Barcelona
+miaka mitatu iliyofuata na alifanikiwa kutwaa taji la Ballon dâOr
+Lile dogo zaidi la AnyiÅanyi Wanyinganyi wanaoishi maeneo ya Mnyinganyi
+Karibu na Ngâiriama mto unatoka katika Usangu na kuingia hifadhi ya kitaifa ya Ruaha
+Aliwasilisha mada katika kikao kilichofanyika Hanangâ na wakamwelewa vizuri
+Mali Hai ni asasi ya kijamii ambayo inahamasisha wanajamii kuhifadhi mazingiÅa kwa kupanda miti
+Kuanzia tarehe ishirini na tatu Novemba hadi alipongâatuka kutoka madarakani
+katika jengo lingine la kituo cha polisi na kuwaningâiniza
+Jibu ni Kampuni ya Samâs Tours and Safaris
+Mfumo wake wa mmengâenyo wa chakula ni wa uhakika sana
+Jamii hii pia ni wafugaji wa mbuzi ngâombe na kuku
+Wavulana katika kitengo hiki wanajulikana kama Ilngâeeliani
+Mfalme wa Buha alipojibu kuwa Nâabhaha akimaanisha kuwa hawa ni wenyeji wa hapahapa
+Baadaye likageuzwa kuwa shamba la Ngâombe ambalo lipo hadi leo
+Mifugo ambayo hufugwa ni pamoja na ngâombe mbuzi kondoo nguruwe kuku na bata
+Wamasai ndio walipokea ngâombe wote ambao wapo mpaka sasa hapa duniani
+Hii ndio ibada wakati wavulana wanakamata wanamshikilia na kumwangusha ngâombe
+Katika posa za Wazigua kuna nkola lusona yaani kifunga posa na ngâombe wa mahari
+ïJamhuri ya muungano wa Tanzania ni taifa linalopatikana mashariki mwa bara la Afrika
+Mifugo yao kama kondoo mbuzi na ngoâmbe na wanyamapori
+Walingâangâania faida za kiuchumi kutokana na umilikaji wa watumwa katika mashamba yao
+Urithi wao ni watu na ngâombe Walihamia
+Alikuwa tayari ana uwezo wa kuchunga nâgombe wengi
+Mtu kupatwa na hali hizi mathalani inapotokea mfumo wake wa mmengâenyo wa chakula umevurugika
+ïwatu wengine wanasubiri kuona kitakachotokea
+Kipindi cha likizo alivyokuwa akirudi likizo aliendelea na maisha yake ya kuchunga nâgombe
+Wanamuita Mungu kama Enkai na wanaamini kuwa alishusha ngâombe kutoka juu akiwa na kamba
+Yeye ndiye anayekunywa kwanza damu ya moto ya ngâombe aliyechinjwa
+alicheza mara kwa mara na kaka zake wakubwa Rodrigo na MatÃas na binamu zake
+Messi kafanikiwa kuchukua tuzo za Ballon dâOr mara tano
+Pazi aliamua kusema kuwa kuanzia leo hamtaitwa Wangâhoo jina lenu litakuwa Wabena migoha
+Wadorobo ni kundi la wawindaji na wakusanyaji ambao hawakupokea ngâombe yoyote
+Kiungo Xavi Hernandez alingâara sana kwenye staili hii
+Samuel Etoâo na Lionel Messi walipeleka kilio jijini Manchesterr
+Upande wa mwisho kutambulishwa ni Ngwâeli
+Mwaka elfu mbili na nne alitajwa na PelÃ kwenye kikosi cha wachezaji bora
+Emmanuel Gabriel Alingâara ndani ya Simba
+Ila tuwe tunasoma tunafuatilia na kungâamua kiundani vyanzo vya vitu duniani
+Kwa misimu miwili iliyofuata alishika nafasi ya pili kwenye kuwania tuzo za Ballon dâOr
+Lionel AndrÃs Messi alizaliwa tarehe ishirini na nne mwezi Juni
+katika sherehe hii pia kwamba mvulana ambaye ngâombe wake mchanga atachinjwa
+Baba yake JosÃ Dinis Aveiro aliye kuwa anafanya kazi katika bustani ya manispaa
+mchunga ngâombe anaanza safari yake ya masomo ya sekondari
