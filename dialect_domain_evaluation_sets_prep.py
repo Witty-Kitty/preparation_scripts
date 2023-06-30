@@ -8,6 +8,9 @@ parser.add_argument("--data", type=str, help="add the path to your cv corpus dir
 args = parser.parse_args()
 
 validated = pd.read_csv(args.data + '/sw/validated.tsv', sep='\t', low_memory=False)
+#taking out double quotes from the data, if not closed, they cause errors in the data preparation pipeline
+validated['sentence'] = validated['sentence'].str.replace('"', '')
+
 
 # filtering out data from the following PRs. These are either domain data or dialect and variant data. These subsets are intended for fine-tuning and evaluation respectively.
 # so far only the variant/dialect sets have been uploaded 
