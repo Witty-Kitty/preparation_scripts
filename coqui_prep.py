@@ -14,7 +14,12 @@ def find_audio_size(subset_dataframe):
     size = []
     for index, row in subset_dataframe.iterrows():
         prop = subprocess.run(["soxi", args.data + "/sw/clips/" + subset_dataframe.loc[index]['path'][:-4] + ".wav"], text=True, capture_output=True)
-        size.append([index,regex.search(str(prop)).group(2)])
+        match = re.search(regex, str(prop))
+        if match:
+            size.append([index, match.group(2)])
+        else:
+            print("No match found for file:", subset_dataframe.loc[index]['path'])
+        #size.append([index,regex.search(str(prop)).group(2)])
 
     audio_sizes = pd.DataFrame(size)
     audio_sizes = audio_sizes.set_index(0)

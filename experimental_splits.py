@@ -44,7 +44,7 @@ train, dev, test, eval = split_data(filtered_validated, args.train, args.dev, ar
 
 
 # save my train, dev and test sets
-train.to_csv(args.data + '/sw/train.tsv', index=False, sep='\t')
-dev.to_csv(args.data + '/sw/dev.tsv', index=False, sep='\t')
-test.to_csv(args.data + '/sw/test.tsv', index=False, sep='\t')
+train.to_csv(args.data + '/sw/train0.tsv', index=False, sep='\t')
+dev.to_csv(args.data + '/sw/dev0.tsv', index=False, sep='\t')
+test.to_csv(args.data + '/sw/test0.tsv', index=False, sep='\t')
 eval.to_csv(args.data + '/sw/eval.tsv', index=False, sep='\t')

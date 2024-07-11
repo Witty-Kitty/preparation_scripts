@@ -8,7 +8,7 @@ parser = argparse.ArgumentParser()
 parser.add_argument("--data", type=str, help="add the path to your cv corpus directory", required=True)
 args = parser.parse_args()
 
-validated = pd.read_csv(args.data + '/sw/validated.tsv', sep='\t', low_memory=False, quoting=3)
+validated = pd.read_csv(args.data + '/sw/validated.tsv', sep='\t', low_memory=False	)
 
 # filtering out data from the following PRs. These are either domain data or dialect and variant data. These subsets are intended for fine-tuning and evaluation respectively.
 # so far only the variant/dialect sets have been uploaded 
@@ -63,7 +63,7 @@ for idx, value in validated['sentence'].items():
 filtered_validated = validated[~validated.index.isin(filter_sets)]
 
 #taking out double quotes from the data, if not closed, they cause errors in the data preparation pipeline
-#filtered_validated['sentence'] = filtered_validated['sentence'].apply(lambda x: re.sub(r'"', '', x))
+filtered_validated['sentence'] = filtered_validated['sentence'].apply(lambda x: re.sub(r'"', '', x))
 
 filtered_validated.to_csv(args.data + '/sw/validated_without_dialect_domain_eval.tsv', index=False, sep='\t')
 
